@@ -1,5 +1,5 @@
 
-## What you will learn
+## What I Learned
 
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
